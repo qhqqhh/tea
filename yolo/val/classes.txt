@@ -1,0 +1,7 @@
+healthy
+chihuo_low
+chihuo_high
+tanju_low
+tanju_high
+chabing_low
+chabing_high
