@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>tea271.jpg</filename>
+	<path>F:\处理病害数据集\images\train2014\tea271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2664</width>
+		<height>5920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_low</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>838</xmin>
+			<ymin>1103</ymin>
+			<xmax>2170</xmax>
+			<ymax>4397</ymax>
+		</bndbox>
+	</object>
+</annotation>

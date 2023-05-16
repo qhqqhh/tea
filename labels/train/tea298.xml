@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>tea298.jpg</filename>
+	<path>F:\处理病害数据集\images\train2014\tea298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2664</width>
+		<height>5920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tanju_high</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>741</ymin>
+			<xmax>2601</xmax>
+			<ymax>3041</ymax>
+		</bndbox>
+	</object>
+</annotation>

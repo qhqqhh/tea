@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>tea201.jpg</filename>
+	<path>F:\处理病害数据集\images\train2014\tea201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2664</width>
+		<height>5920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_high</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>463</xmin>
+			<ymin>141</ymin>
+			<xmax>2513</xmax>
+			<ymax>4466</ymax>
+		</bndbox>
+	</object>
+</annotation>

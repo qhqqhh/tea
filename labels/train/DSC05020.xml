@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train2014</folder>
+	<filename>DSC05020.jpg</filename>
+	<path>F:\处理病害数据集\images\train2014\DSC05020.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chihuo_high</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1569</xmin>
+			<ymin>891</ymin>
+			<xmax>4024</xmax>
+			<ymax>2874</ymax>
+		</bndbox>
+	</object>
+</annotation>
